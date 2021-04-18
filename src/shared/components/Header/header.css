@@ -1,0 +1,11 @@
+Header{
+    height:30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top:10px;
+}
+
+Header img{
+    height: 30px;
+}

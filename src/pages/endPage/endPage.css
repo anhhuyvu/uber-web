@@ -1,0 +1,29 @@
+.end-body{
+    background-image: url(../../images/background.jpg);
+    height: 650px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end-form{
+    background-color: rgba(255, 255, 255, 0.699);
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+}
+.end-left-content video{
+    height:200px;
+    width: 400px;
+}
+.end-left-content{
+    width: 30%;
+}
+.end-left-content p{
+    margin-left: 30px;
+}
+.end-right-content{
+    width: 40%;
+}

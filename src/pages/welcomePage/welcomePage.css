@@ -1,0 +1,16 @@
+.Body{
+    background-image: url(../../images//welcomePage.jpg);
+    height: 650px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.Convey{
+    width: 400px;
+}
+.title{
+    width: 400px;
+}
+

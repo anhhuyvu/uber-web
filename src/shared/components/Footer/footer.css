@@ -1,0 +1,18 @@
+Footer{
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position:fixed;
+    align-items: center;
+    border-top: 3px solid black;
+    z-index: 5;
+}
+.foot-content{
+    font-size:10px;
+    margin-top:10px;
+}
+.foot i {
+    margin-right:10px;
+    margin-top:10px;
+}
